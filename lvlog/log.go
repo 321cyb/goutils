@@ -6,7 +6,7 @@
 
 // TODO: What if No Init function is called?
 
-package log
+package lvlog
 
 import (
 	"errors"
